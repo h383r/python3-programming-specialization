@@ -1,8 +1,8 @@
 # Python 3 Programming Specialization
 **University of Michigan on Coursera**
+
 *Course completed: 14/2/2020*
 
----
 ## Course 1: Python Basics 
 
 Week 1:
@@ -23,7 +23,6 @@ Week 4:
 - Accumulating Lists and Strings
 - Python Basics - Final Course Assignment
 
----
 ## Course 2: Python Functions, Files, and Dictionaries
 
 Week 1:
@@ -48,7 +47,6 @@ Week 5:
 - Sorting Dictionaries, Breaking Ties
 - Python Functions, Files, and Dictionaries - Final Course Project
 
----
 ## Course 3: Data Collection and Processing with Python
 
 Week 1:
@@ -67,7 +65,6 @@ Week 3:
 - Practice with REST APIs
 - Data Collection and Processing with Python - Final Course Project
 
----
 ## Course 4: Python Classes and Inheritance
 
 Week 1:
@@ -82,7 +79,6 @@ Week 3:
 - Exceptions
 - Python Classes and Inheritance - Final Course Project
 
----
 ## Course 5: Python Project: pillow, tesseract, and opencv
 
 Week 1:
